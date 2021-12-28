@@ -540,12 +540,12 @@ img, video {
 }
 
 .from-indigo-300 {
-    --tw-gradient-from: #a5b4fc;
+    --tw-gradient-from: #80DDF2;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(165, 180, 252, 0))
 }
 
 .via-green-300 {
-    --tw-gradient-stops: var(--tw-gradient-from), #6ee7b7, var(--tw-gradient-to, rgba(110, 231, 183, 0))
+    --tw-gradient-stops: var(--tw-gradient-from),#9ACDD9, var(--tw-gradient-to, rgba(110, 231, 183, 0))
 }
 
 .to-white {
